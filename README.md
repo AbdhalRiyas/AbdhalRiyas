@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdhal</h1>
 <h3 align="center">Software Engineering Undergraduate at IIT</h3>
 
-- 🔭 I’m currently working on **SriCuisine**
-
 - 🌱 I’m currently learning **Flutter, React, Node JS and Spring Boot**
 
 - 📫 How to reach me **abdhal2002@gmail.com**
